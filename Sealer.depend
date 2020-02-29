@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1521204381 source:c:\users\karl-sedoid\desktop\c++ codes\sealer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1521203351 source:c:\users\bona-v wisdom\desktop\sealer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
+1521329817 source:c:\users\karl-sedoid\desktop\sealer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	<dirent.h>
+	<sys/stat.h>
+
+1522265821 source:c:\users\karl-sedoid\desktop\documents\sealer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	<dirent.h>
+	<sys/stat.h>
+
